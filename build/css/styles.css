@@ -1268,6 +1268,10 @@ video {
   .md\:hidden {
     display: none;
   }
+
+  .md\:flex-row {
+    flex-direction: row;
+  }
 }
 
 @media (min-aspect-ratio: 3/2) {
